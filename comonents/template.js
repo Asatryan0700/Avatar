@@ -28,22 +28,8 @@ export default {
                     <div class="var_body">
                     <button class="btn-body1"></button>
                     <button class="btn-body2"></button>
-                    <button class="btn-body3"></button>
-                    <button class="btn-body4"></button>
                     </div>
-                    <div class="var_hair">
-                    <button class="btn-hair"></button>
-                    <button class="btn-hair2"></button>
-                    <button class="btn-hair3"></button>
-                </div>
-                <div class="var_eyes">
-                    <button class="btn-eyes"></button>
-                    <button class="btn-eyes2"></button>
-                    <button class="btn-eyes3"></button>
-                </div>
-                <div class="var_month">
-                    <button class="btn-month"></button>
-                    <button class="btn-month2"></button>
+             
                 </div>
                 </div>
             </div>
