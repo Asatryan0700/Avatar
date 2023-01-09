@@ -24,13 +24,9 @@ export default class CoolForm extends HTMLElement {
         if (addBody.style.display === "none") {
             addBody.style.display = "block";
             addBody2.style.display = "none";
-            addBody3.style.display = "none";
-            addBody4.style.display = "none";
            
         } else {
             addBody.style.display = "block";
-            addBody4.style.display = "none";
-            addBody3.style.display = "none";
             addBody2.style.display = "none";
         }
     }
@@ -41,13 +37,10 @@ export default class CoolForm extends HTMLElement {
         if (addBody2.style.display === "none") {
             addBody.style.display = "none";
             addBody2.style.display = "block";
-            addBody3.style.display = "none";
-            addBody4.style.display = "none";
+
            
         } else {
             addBody.style.display = "block";
-            addBody4.style.display = "none";
-            addBody3.style.display = "none";
             addBody2.style.display = "none";
         }
     }
